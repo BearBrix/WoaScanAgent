@@ -1,7 +1,4 @@
 # WoaScanAgent
-## Prerequisites
-
-
 ## How to Run
 1. You need to have rust installed to compile this. Follow instructions from [here](https://www.rust-lang.org/tools/install).
 2. Clone the repository:
